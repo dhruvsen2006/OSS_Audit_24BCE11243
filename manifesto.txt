@@ -1,0 +1,8 @@
+Generate Your Personalized Open Source Manifesto
+############################################
+
+1. What does an open source software mean to you? tool
+2. What does 'freedom' mean to you? power
+3. Do you have plans for software which you would like to build and share? os
+
+Manifesto successfully saved to manifesto_dhruv.txt
